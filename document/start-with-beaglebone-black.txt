@@ -8,7 +8,6 @@ debian:temppwd
 tightvnc viewer
 
 
-
 vmware workstation
 
 mobaxterm
